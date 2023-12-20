@@ -232,7 +232,7 @@ section {
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background: url(images/donglua.jpeg);
+    background: url(donglua.jpeg);
     background-size: cover;
     background-position: center;
 
